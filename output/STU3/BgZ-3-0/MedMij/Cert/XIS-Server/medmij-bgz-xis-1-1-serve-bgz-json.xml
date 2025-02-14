@@ -92,7 +92,7 @@
             </requestHeader>
             <requestHeader>
                <field value="X-Correlation-ID"/>
-               <value value="${X-Correlation-ID}a"/>
+               <value value="${X-Correlation-ID}ab"/>
             </requestHeader>
          </operation>
       </action>
